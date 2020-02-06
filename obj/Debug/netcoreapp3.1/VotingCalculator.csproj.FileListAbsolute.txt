@@ -1,0 +1,11 @@
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/bin/Debug/netcoreapp3.1/VotingCalculator
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/bin/Debug/netcoreapp3.1/VotingCalculator.deps.json
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/bin/Debug/netcoreapp3.1/VotingCalculator.runtimeconfig.json
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/bin/Debug/netcoreapp3.1/VotingCalculator.runtimeconfig.dev.json
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/bin/Debug/netcoreapp3.1/VotingCalculator.dll
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/bin/Debug/netcoreapp3.1/VotingCalculator.pdb
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/obj/Debug/netcoreapp3.1/VotingCalculator.csprojAssemblyReference.cache
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/obj/Debug/netcoreapp3.1/VotingCalculator.AssemblyInfoInputs.cache
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/obj/Debug/netcoreapp3.1/VotingCalculator.AssemblyInfo.cs
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/obj/Debug/netcoreapp3.1/VotingCalculator.dll
+/Users/tomhoughton/Documents/GitHub/VotingCalculator/obj/Debug/netcoreapp3.1/VotingCalculator.pdb
