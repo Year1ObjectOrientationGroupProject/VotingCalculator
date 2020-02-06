@@ -7,8 +7,9 @@ namespace VotingCalculator
     {
         static void Main(string[] args)
         {
-            ExampleClass a = new ExampleClass("Hello There");
-            a.sayHello();
+            Country myCountry = new Country("France", 5.09f);
+            Console.WriteLine(myCountry.getName());
+            Console.WriteLine(myCountry.getPercentageOfPop());
         }
     }
 }
